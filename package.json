@@ -1,0 +1,28 @@
+{
+  "name": "redditbot",
+  "version": "1.0.0",
+  "description": "Test bot for reddit",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TLHM/redditbot.git"
+  },
+  "keywords": [
+    "reddit",
+    "bot"
+  ],
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/TLHM/redditbot/issues"
+  },
+  "homepage": "https://github.com/TLHM/redditbot#readme",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "snoostorm": "0.0.5",
+    "snoowrap": "^1.15.2"
+  }
+}
